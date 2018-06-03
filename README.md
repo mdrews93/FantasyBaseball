@@ -14,6 +14,8 @@ Install the required packages:
 
 `pip install -r requirements.pip`
 
+`./install.sh`
+
 Start Jupyter to access, run, and modify the notebooks:
 
 `jupyter notebook`
